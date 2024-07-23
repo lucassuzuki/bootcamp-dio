@@ -1,3 +1,4 @@
+package edu.lucas.anatomia4;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 6;
@@ -9,4 +10,4 @@ public class BoletimEstudantil {
              System.out.println("Aprovado!");
     }
 }
-aa
+
