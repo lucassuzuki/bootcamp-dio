@@ -1,4 +1,5 @@
 package edu.lucas.anatomia4;
+
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 6;
