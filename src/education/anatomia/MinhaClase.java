@@ -1,4 +1,4 @@
-package edu.lucas.anatomia5;
+package education.anatomia;
 public class MinhaClase {
     public static void main(String[] args) {
         String primeiroNome = "Lucas";

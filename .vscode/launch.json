@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CondicionalCompostaMedia",
+            "request": "launch",
+            "mainClass": "education.estrutura_condicionais.CondicionalCompostaMedia",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimplesCaixaEletronico",
+            "request": "launch",
+            "mainClass": "education.estrutura_condicionais.CondicionalSimplesCaixaEletronico",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimples",
+            "request": "launch",
+            "mainClass": "education.estrutura_condicionais.CondicionalSimples",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
