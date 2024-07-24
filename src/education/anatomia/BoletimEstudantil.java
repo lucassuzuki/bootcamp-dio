@@ -1,4 +1,4 @@
-package edu.lucas.anatomia4;
+package education.anatomia;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {

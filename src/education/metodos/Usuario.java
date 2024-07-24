@@ -1,4 +1,4 @@
-package edu.lucas.metodos;
+package education.metodos;
 
 public class Usuario {
     
