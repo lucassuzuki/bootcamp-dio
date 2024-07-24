@@ -1,0 +1,55 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Lucas",
+                "Suzuki",
+                "24",
+                "1.80"
+            ],
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.lucas.anatomia4.BoletimEstudantil",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClase",
+            "request": "launch",
+            "mainClass": "edu.lucas.anatomia5.MinhaClase",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.lucas.metodos.Usuario",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.lucas.tiposVariaveis.TiposVariaveis",
+            "projectName": "bootcamp-dio_98e939eb"
+        }
+    ]
+}
