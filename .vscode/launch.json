@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "education.estrutura_repeticao.ExemploDoWhile",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "education.estrutura_repeticao.ExemploWhile",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBreakeContinue",
+            "request": "launch",
+            "mainClass": "education.estrutura_repeticao.ExemploBreakeContinue",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "education.estrutura_repeticao.ExemploForArray",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "education.estrutura_repeticao.ExemploFor",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
             "name": "CondicionalTernariaMedia",
             "request": "launch",
             "mainClass": "education.estrutura_condicionais.CondicionalTernariaMedia",
