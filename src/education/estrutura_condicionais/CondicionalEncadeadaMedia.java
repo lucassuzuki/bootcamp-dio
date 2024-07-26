@@ -3,7 +3,7 @@ package education.estrutura_condicionais;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class CondicionalCompostaMedia {
+public class CondicionalEncadeadaMedia {
     public static void main(String[] args) {
 
 
@@ -26,6 +26,8 @@ public class CondicionalCompostaMedia {
             System.out.println("Voce foi aprovado com " + media + " de media");
         } else if(media == 10){
             System.out.println("Voce foi aprovado com média maxima!");
+        } else if(media > 10){
+            System.out.println("Voce informou uma nota superior a 10, portanto media incorreta");
         } else{
             System.out.println("Voce foi Reprovado");
         }

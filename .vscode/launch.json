@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CondicionalTernariaMedia",
+            "request": "launch",
+            "mainClass": "education.estrutura_condicionais.CondicionalTernariaMedia",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
             "name": "CondicionalCompostaMedia",
             "request": "launch",
             "mainClass": "education.estrutura_condicionais.CondicionalCompostaMedia",
