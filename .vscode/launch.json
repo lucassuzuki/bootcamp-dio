@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "education.estruturas_excepcionais.FormatadorCep",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "education.estruturas_excepcionais.TryCatch",
+            "projectName": "bootcamp-dio_98e939eb"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "education.estrutura_repeticao.ExemploDoWhile",
