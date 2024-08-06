@@ -9,7 +9,7 @@ public class ComputadorLucas {
 	public static void main(String[] args) {
 		ServicoMensagemInstantanea smi = null;
 		
-		String appEscolhido="msn";
+		String appEscolhido="fbm";
 		
 		if(appEscolhido.equals("msn"))
 			smi = new MSNMessenger();
