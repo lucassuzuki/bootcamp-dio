@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "enums.SistemaIbge",
+            "projectName": "bootcamp-dio"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorLucas",
+            "request": "launch",
+            "mainClass": "pilares.ComputadorLucas",
+            "projectName": "bootcamp-dio"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCep",
             "request": "launch",
             "mainClass": "education.estruturas_excepcionais.FormatadorCep",
